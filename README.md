@@ -9,7 +9,7 @@
 
 - 🔭 I’m 🔭 I’m currently working on SaaS Merchant Dashboard – Real-time donation analytics from platforms like Facebook and Snapchatcurrently working on **DataPulse**
 
-- 📫 How to reach me alaafathy396@gmail.com **alaafathy396@gmail.com**
+- 📞 Send Me **+201013538732**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
