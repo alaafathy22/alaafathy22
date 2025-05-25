@@ -7,7 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m 🔭 I’m currently working on SaaS Merchant Dashboard – Real-time donation analytics from platforms like Facebook and Snapchatcurrently working on **DataPulse**
+- 🔭 I’m **🔭 I’m 🔭 I’m currently working on SaaS Merchant Dashboard – Real-time donation analytics from platforms like Facebook and Snapchatcurrently working on DataPulse**
+
+- 🌱 I’m currently **🌱 I’m curr🌱 I’m currently learning Spring Boot (advanced topics), Docker, Kubernetes, Microservices architecture, and ClickHouseently learning**
+
+- 👯 I’m looking **👯 I’m looking to collaborate on Backend-heavy projects using Java (Spring Boot) or PHP (Laravel).**
+
+- 🤝 I’m looking **🤝 I’m looki🤝 I’m looking for help with Open-source tools or libraries that enhance backend performance and developer productivity.ng for help with**
+
+- 💬 Ask me about **💬 Ask me about React, Vue.js, GSAP (for frontend animations and interactivity)**
+
+- 📫 How to reach me **alaafathy396@gmail.com**
 
 - 📞 Send Me **+201013538732**
 
