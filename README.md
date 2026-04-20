@@ -11,11 +11,6 @@
 
 - 📞 Send Me **+201013538732**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/3laafathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3laafathy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alaafathy-sw-eng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaafathy-sw-eng/" height="30" width="40" /></a>
